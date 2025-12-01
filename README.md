@@ -26,36 +26,6 @@
 
 <br/>
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/nadeemcse/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40px"/>
-</a>
-<a href="https://github.com/nadeem35">
-  <img src="https://skillicons.dev/icons?i=github" width="40px"/>
-</a>
-<a href="mailto:nadeem.cse72@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40px"/>
-</a>
-
-</div>
-
-<!-- RIGHT SIDE IMAGE -->
-<div style="width: 40%;">
-  <!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="50%" /> -->
-</div>
-
-</div>
-
----
-
-## 🔧 Tech Stack
-
-### 🚀 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui" />
-</p>
-
 <!---   
 ### 🛠 Tools & Platforms  
 <p>
@@ -106,9 +76,9 @@
 </div>
 
 --->
----
 
 
+<!---
 # 🌐 Connect With Me
 
 <p align="left">
@@ -122,8 +92,8 @@
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
 </p>
+--->
 
----
 
 <!----
 
@@ -140,17 +110,19 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui"/>
 </p>
 
-### 🛠 Tools & Platforms
+### 🛠 Languages, Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,netlify,vercel"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github,postman,figma,vscode,netlify,vercel" />
 </p>
 
+<!---
 ---
 
 # 📈 GitHub Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadeem35&layout=compact&theme=tokyonight" />
 </p>
+--->
 
 
 ---
