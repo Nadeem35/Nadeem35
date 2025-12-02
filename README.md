@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning *DSA, Node.js*
 - 💬 Ask me about *React.js, Next.js, DSA*
-- 👋 Checkout my Portfolio at *Proof of Work*
+- 👋 Checkout my Portfolio at *https://tinyurl.com/MyProjecctt*
 - 📫 Click to reach me: *nadeem.cse72@gmail.com*
 - ⚡ Fun fact: *Code never lies, comments sometimes do*
 
