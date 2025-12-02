@@ -6,8 +6,6 @@
 <h1 align="center">Hi 👋, I'm Nadeem</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
----
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <!-- LEFT SIDE -->
@@ -16,7 +14,7 @@
 <!-- Profile views -->
 <!-- <img src="https://komarev.com/ghpvc/?username=nadeem35&label=Profile%20views&color=0e75b6&style=flat" /> -->
 
-<br/><br/>
+<br/>
 
 - 🌱 I’m currently learning *DSA, Node.js*
 - 💬 Ask me about *React.js, Next.js, DSA*
@@ -24,7 +22,6 @@
 - 📫 Click to reach me: *nadeem.cse72@gmail.com*
 - ⚡ Fun fact: *Code never lies, comments sometimes do*
 
-<br/>
 
 <!---   
 ### 🛠 Tools & Platforms  
@@ -101,7 +98,6 @@
 👉 *Proof of Work:* (Add your portfolio link here)  
 --->
 
----
 
 # 🔧 Tech Stack
 
@@ -159,7 +155,6 @@
 --->
 
 
----
 ## 🤝 Let's Connect
 
 <p>
@@ -179,4 +174,3 @@
   </a>
 </p>
 
----
