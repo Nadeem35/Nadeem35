@@ -10,16 +10,23 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
 <!-- LEFT SIDE -->
-<div style="width: 55%;">
+<div style="width: 55%;"> 
 
 <!-- Profile views -->
 <!-- <img src="https://komarev.com/ghpvc/?username=nadeem35&label=Profile%20views&color=0e75b6&style=flat" /> -->
 
 <br/>
 
+<!-- 
 - 🌱 I’m currently learning *DSA, Node.js*
 - 💬 Ask me about *React.js, Next.js, DSA*
+-->
+
+- 🌱 I’m currently learning *DSA*
+- 💬 Ask me about *DSA, Mysql, React.js*
+<!-- 
 - 👋 Checkout my Portfolio at *https://tinyurl.com/MyProjecctt*
+-->
 - 📫 Click to reach me: *nadeem.cse72@gmail.com*
 - ⚡ Fun fact: *Code never lies, comments sometimes do*
 
@@ -106,10 +113,11 @@
 <!--          FRONTEND          -->
 <!-- ========================== -->
 
-<h2>🚀 Frontend</h2>
+<!-- <h2>🚀 Frontend</h2> -->
+<h2>🚀 Skills</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=java" /> 
-  <img src="https://skillicons.dev/icons?i=sql" /> 
+  <img src="https://skillicons.dev/icons?i=mysql" /> 
   <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
@@ -131,7 +139,7 @@
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <!-- <img src="https://skillicons.dev/icons?i=cpp" /> -->
 </p>
 
 <!-- ========================== -->
