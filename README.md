@@ -108,15 +108,18 @@
 
 <h2>🚀 Frontend</h2>
 <p>
+  <img src="https://skillicons.dev/icons?i=java" /> 
+  <img src="https://skillicons.dev/icons?i=sql" /> 
+  <img src="https://skillicons.dev/icons?i=spring" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-  <img src="https://skillicons.dev/icons?i=redux" />
+  <!-- <img src="https://skillicons.dev/icons?i=nextjs" /> -->
+  <!-- <img src="https://skillicons.dev/icons?i=redux" /> -->
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=materialui" />
+  <!-- <img src="https://skillicons.dev/icons?i=materialui" /> -->
 </p>
 
 <!-- ========================== -->
@@ -142,7 +145,7 @@
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=netlify" />
+  <!-- <img src="https://skillicons.dev/icons?i=netlify" /> -->
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
