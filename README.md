@@ -37,7 +37,7 @@
     <!-- RIGHT: IMAGE -->
     <td width="40%" align="center">
       <img 
-        src="https://plus.unsplash.com/premium_vector-1734708424844-ad157201797c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMxfHx8ZW58MHx8fHx8"
+        src="https://plus.unsplash.com/premium_vector-1734169925452-fee79964d1d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDQ5fHx8ZW58MHx8fHx8"
         width="260"
         style="border-radius: 12px;"
       />
