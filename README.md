@@ -22,14 +22,28 @@
 - 💬 Ask me about *React.js, Next.js, DSA*
 -->
 
-- 🌱 I’m currently learning *DSA*
-- 💬 Ask me about *DSA, Mysql, React.js*
-<!-- 
-- 👋 Checkout my Portfolio at *https://tinyurl.com/MyProjecctt*
--->
-- 📫 Click to reach me: *nadeem.cse72@gmail.com*
+<table>
+  <tr>
+    <!-- LEFT: TEXT -->
+    <td width="60%" valign="top">
+
+- 🌱 I’m currently learning **DSA**  
+- 💬 Ask me about **DSA, MySQL, React.js**  
+- 📫 Reach me at **nadeem.cse72@gmail.com**  
 - ⚡ Fun fact: *Code never lies, comments sometimes do*
 
+    </td>
+
+    <!-- RIGHT: IMAGE -->
+    <td width="40%" align="center">
+      <img 
+        src="https://plus.unsplash.com/premium_vector-1734708424844-ad157201797c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDMxfHx8ZW58MHx8fHx8"
+        width="260"
+        style="border-radius: 12px;"
+      />
+    </td>
+  </tr>
+</table>
 
 <!---   
 ### 🛠 Tools & Platforms  
@@ -134,7 +148,7 @@
 <!--     PROGRAMMING LANGUAGES  -->
 <!-- ========================== -->
 
-<h2>🧑‍💻 Programming Languages</h2>
+<h2>💻Programming Languages</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=python" />
